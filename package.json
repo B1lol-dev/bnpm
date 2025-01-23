@@ -1,0 +1,23 @@
+{
+  "name": "bnpm",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "bin": {
+    "bnpm": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "package-manager",
+    "npm"
+  ],
+  "author": "B1lol-dev",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
