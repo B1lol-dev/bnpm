@@ -9,7 +9,15 @@ This project is a TypeScript project developed using bnpm. It aims to [provide a
 To install the project dependencies, run the following command:
 
 ```bash
+git clone https://github.com/B1lol-dev/bnpm
+```
+
+```bash
 npm install
+```
+
+```bash
+npm install -g
 ```
 
 ## Usage
@@ -17,7 +25,7 @@ npm install
 To start the project, run the following command:
 
 ```bash
-npm start
+bnpm
 ```
 
 ## License
