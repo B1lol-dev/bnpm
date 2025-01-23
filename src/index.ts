@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import { install } from "./commands/install";
 import { uninstall } from "./commands/uninstall";
 import { list } from "./commands/list";

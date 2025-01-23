@@ -1,9 +1,9 @@
 {
   "name": "bnpm",
   "version": "1.0.0",
-  "main": "./dist/index.js",
+  "main": "dist/index.js",
   "bin": {
-    "bnpm": "./dist/index.js"
+    "bnpm": "./bin/bnpm.js"
   },
   "scripts": {
     "build": "tsc"
