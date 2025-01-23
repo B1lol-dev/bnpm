@@ -20,10 +20,6 @@ To start the project, run the following command:
 npm start
 ```
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in [CONTRIBUTING.md](link-to-contributing-file).
-
 ## License
 
-This project is licensed under the [MIT License](link-to-license-file).
+This project is licensed under the [MIT License](LICENSE).
